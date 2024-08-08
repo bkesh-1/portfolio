@@ -177,7 +177,7 @@ a {
 	}
 }
 
-#evil-button {
+.button {
 	position: absolute;
 	display: inline-block;
 	
